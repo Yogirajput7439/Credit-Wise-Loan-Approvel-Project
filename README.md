@@ -100,4 +100,4 @@ These metrics help in understanding both prediction quality and class balance.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yogirajput7439/Credit-Wise-Loan-Approvel-Project
+   https://github.com/yogirajput7439/Credit-Wise-Loan-Approvel-Project
