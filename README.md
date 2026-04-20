@@ -64,7 +64,6 @@ The dataset contains financial and personal details of loan applicants:
 - StandardScaler
 - KNeighborsClassifier
 - GaussianNB
-- 
 
 Among these, **Gaussian Naive Bayes** provided the best overall performance.
 
